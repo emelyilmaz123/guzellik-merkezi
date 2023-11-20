@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDtUO9wwWPZAFud3ghahORppYvTobl35H8eUVyfd64lf3dNHUDt9Zsimzp+ogRpToGiY52fNcXxJzbcKggVeHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emelc\\source\\repos\\güzellik merkezi otomasyonu\\güzellik merkezi otomasyonu\\güzellik merkezi otomasyonu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emelc\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\emelc\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\emelc\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
